@@ -1,0 +1,15 @@
+{
+  "name": "invoice-generator",
+  "owner": { "name": "Daniel" },
+  "metadata": { "description": "Invoice generator: \"invoice Acme for 12 hours at 90 EUR\" becomes a professional PDF invoice.", "version": "1.0.0" },
+  "plugins": [
+    {
+      "name": "invoice-generator",
+      "source": "./",
+      "description": "Invoice generator: \"invoice Acme for 12 hours at 90 EUR\" becomes a professional PDF invoice.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": ["invoice generator", "create invoice", "invoice template"]
+    }
+  ]
+}

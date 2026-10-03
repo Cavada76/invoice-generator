@@ -1,0 +1,29 @@
+{
+  "number": "2026-014",
+  "issue_date": "2026-10-03",
+  "payment_terms_days": 14,
+  "currency": "EUR",
+  "number_format": "en",
+  "seller": {
+    "name": "Acme Studio",
+    "address": "Main Street 1\n0150 Oslo, Norway",
+    "email": "billing@acme.example",
+    "tax_id": "NO 123 456 789 MVA"
+  },
+  "client": {
+    "name": "Northwind Ltd",
+    "address": "42 Harbour Road\nLondon E1 6AN, UK",
+    "email": "accounts@northwind.example"
+  },
+  "items": [
+    { "description": "Website redesign - design phase", "quantity": 32, "unit": "h", "unit_price": 95, "tax_rate": 25 },
+    { "description": "Hosting, October", "quantity": 1, "unit_price": 40, "tax_rate": 25 }
+  ],
+  "payment": {
+    "bank": "DNB",
+    "iban": "NO93 8601 1117 947",
+    "swift": "DNBANOKK",
+    "reference": "2026-014"
+  },
+  "notes": "Thank you for your business!"
+}
