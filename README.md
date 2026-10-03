@@ -26,4 +26,8 @@ A free invoice generator that lives in Claude. Describe the job in one sentence 
 
 Requires Python with `reportlab` (Claude installs it if missing). Produces a clean commercial invoice; check your country's rules for mandatory VAT-invoice fields.
 
+## Privacy
+
+Runs locally, makes no network calls, and writes only to your folder. See the [Privacy Policy](PRIVACY.md).
+
 MIT licensed.

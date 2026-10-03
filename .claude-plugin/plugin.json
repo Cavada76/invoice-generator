@@ -4,5 +4,8 @@
   "description": "Invoice generator: turn \"invoice Acme for 12 hours at 90 EUR\" into a professional PDF invoice with tax, totals, due date and payment details.",
   "author": { "name": "Daniel" },
   "license": "MIT",
+  "homepage": "https://github.com/Cavada76/invoice-generator",
+  "repository": "https://github.com/Cavada76/invoice-generator",
+  "privacyPolicyUrl": "https://github.com/Cavada76/invoice-generator/blob/main/PRIVACY.md",
   "keywords": ["invoice generator", "create invoice", "invoice template", "billing", "freelance", "pdf invoice", "vat"]
 }
